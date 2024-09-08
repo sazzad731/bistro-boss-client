@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@media only screen and (min-width: 768px){
+  .carousel .thumbs{
+    display: flex;
+    justify-content: center;
+  }
+}
